@@ -27,7 +27,7 @@
     "webpack-dev-server": "^3.11.1"
   },
   "dependencies": {
-    "monaco-editor": "^0.26.1",
+    "monaco-editor": "^0.32.1",
     "monaco-editor-auto-typings": "^0.1.1"
   }
 }
